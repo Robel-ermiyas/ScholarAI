@@ -28,6 +28,30 @@ ScholarAI is a full-stack web application that helps students study smarter usin
 - ✅ Study dashboard with statistics
 - ✅ Responsive design with Tailwind CSS
 
+## 📸 Some Screenshots
+
+### Landing Page
+![Landing Page](screenshots/Landing-Page-1.png)
+![Landing Page](screenshots/Landing-Page-2.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### AI Chat Interface
+![Chat Interface](screenshots/Chat-Interface.png)
+
+### AI Chat Interface
+![Chat Interface](screenshots/chat.png)
+
+### Flashcards
+![Flashcards Front](screenshots/Flashcard1.png)
+![Flashcards Back](screenshots/Flashcard2.png)
+
+### Quiz Pages
+![Quiz Results](screenshots/Quiz-page-1.png)
+![Quiz Results](screenshots/Quiz-page-2.png)
+![Quiz Results](screenshots/Quiz-page-3.png)
+
 ## 📋 Prerequisites
 
 - PHP 8.2 or higher
