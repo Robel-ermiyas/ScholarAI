@@ -40,17 +40,14 @@ ScholarAI is a full-stack web application that helps students study smarter usin
 ### AI Chat Interface
 ![Chat Interface](screenshots/Chat-Interface.png)
 
-### AI Chat Interface
-![Chat Interface](screenshots/chat.png)
-
 ### Flashcards
 ![Flashcards Front](screenshots/Flashcard1.png)
 ![Flashcards Back](screenshots/Flashcard2.png)
 
 ### Quiz Pages
 ![Quiz Results](screenshots/Quiz-page-1.png)
-![Quiz Results](screenshots/Quiz-page-2.png)
-![Quiz Results](screenshots/Quiz-page-3.png)
+![Quiz Results](screenshots/Quiz-Page-2.png)
+![Quiz Results](screenshots/Quiz-Page-3.png)
 
 ## 📋 Prerequisites
 
@@ -125,15 +122,6 @@ Terminal 3 - Vite (optional)
 npm run dev
 ```
 ### 11. Visit http://127.0.0.1:8000
-
-👥 Group Members
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
 
 ## 📄 License
 This project is for educational purposes as part of Internet Programming II assignment.
