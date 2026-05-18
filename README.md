@@ -61,7 +61,7 @@ ScholarAI is a full-stack web application that helps students study smarter usin
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/YOUR_USERNAME/ScholarAI.git
+git clone https://github.com/Robel-ermiyas/ScholarAI.git
 cd ScholarAI
 ```
 ### 2. Install PHP dependencies
@@ -80,8 +80,9 @@ cp .env.example .env
 ```
 ### 5. Generate application key
 
+```
 php artisan key:generate
-
+```
 ### 6. Configure database in .env
 ```
 DB_CONNECTION=mysql
